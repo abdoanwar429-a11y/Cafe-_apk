@@ -3,10 +3,10 @@
   "description": "تطبيق إدارة الكافيه - حسابات الطاولات والفواتير",
   "dir": "ltr",
   "display": "standalone",
-  "name": "إدارة الكافيه",
+  "name": "Cafe app",
   "orientation": "any",
   "scope": "/",
-  "short_name": "إدارة الكافيه",
+  "short_name": "Cafe app",
   "start_url": "/",
   "theme_color": "#5d4037",
   "icons": [
